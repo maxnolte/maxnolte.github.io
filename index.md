@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Max Nolte
+subtitle: Neuroscience | Data Science | Scientific Computing
 published: true
----
----
-subtitle: N
 ---
 
 Trained neuroscientist (PhD from EPFL Blue Brain Project, 2019) with a background in computational physics (MPhys from The University of Edinburgh, 2014). Currently working in the AI industry in Switzerland.
