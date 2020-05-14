@@ -1,3 +1,5 @@
 theme: chrisrhymes/bulma-clean-theme
 title: Max Nolte
-description: Neuroscience | Data Science | Scientific Computing
+subtitle: Neuroscience | Data Science | Scientific Computing
+layout: page
+show_sidebar: false
