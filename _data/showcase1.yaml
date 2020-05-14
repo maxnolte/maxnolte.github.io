@@ -1,28 +1,26 @@
 intro: |-
-  This is some introduction text for the showcases.
-  
-  ## Example Heading
-  It can convert markdown format
+  ## EPFL Blue Brain Project (2014-2019) 
+  Below are selected research projects from my timer at the EPFL Blue Brain Project. You can find all my publications on [Google Scholar](https://scholar.google.com/citations?user=qGwEGKEAAAAJ&hl=en).
 
 items:
-  - title: Paper 1
-    subtitle: Example subtitle
+  - title: Cortical reliability amid noise and chaos
+    subtitle: Nature Communications
     description: |-
-      This is the example description for this item that you are showcasing and has an image, title, description, tags and a link.
+      To add.
     features_styles: is-centered is-outlined is-primary
     image: https://via.placeholder.com/1024x788
     image_ratio: is-16by9
     link: https://www.nature.com/articles/s41467-019-11633-8
-    link_text: View paper
-    tags: Computational Neuroscience
+    link_text: View paper at Nature Communications
+    tags: Computational Neuroscience, Synaptic Noise
 
-  - title: Paper 2
-    subtitle: Example subtitle
+  - title: Impact of higher order network structure on emergent cortical activity
+    subtitle: Network Neuroscience
     description: |-
-      This is the example description for this item that you are showcasing and has an image, title, description, tags and a link.
+      To add.
     features_styles: is-centered is-outlined is-primary
     image: https://via.placeholder.com/1024x788
     image_ratio: is-16by9
-    link: https://www.nature.com/articles/s41467-019-11633-8
-    link_text: View paper
-    tags: Computational Neuroscience
+    link: http://dx.doi.org/10.1162/netn_a_00124
+    link_text: View paper at Network Neuroscience
+    tags: Computational Neuroscience, Neuronal Networks, Topology
