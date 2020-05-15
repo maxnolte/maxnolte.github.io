@@ -8,7 +8,7 @@ items:
     description: |-
       To add.
     features_styles: is-centered is-outlined is-primary
-    image: noise.jpeg
+    image: /publications/noise.jpeg
     image_ratio: is-16by9
     link: https://www.nature.com/articles/s41467-019-11633-8
     link_text: View paper at Nature Communications
