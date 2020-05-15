@@ -8,7 +8,7 @@ items:
     description: |-
       To add.
     features_styles: is-centered is-outlined is-primary
-    image: {{site.baseurl}}/noise.jpeg
+    image: noise.jpeg
     image_ratio: is-16by9
     link: https://www.nature.com/articles/s41467-019-11633-8
     link_text: View paper at Nature Communications
@@ -19,7 +19,7 @@ items:
     description: |-
       To add.
     features_styles: is-centered is-outlined is-primary
-    image: {{site.baseurl}}/connectome.jpeg
+    image: connectome.jpeg
     image_ratio: is-16by9
     link: http://dx.doi.org/10.1162/netn_a_00124
     link_text: View paper at Network Neuroscience
