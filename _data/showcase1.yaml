@@ -9,7 +9,7 @@ items:
       To add.
     features_styles: is-centered is-outlined is-primary
     image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/noise.jpeg
-    image_ratio: is-16by9
+    image_ratio: is-4by3
     link: https://www.nature.com/articles/s41467-019-11633-8
     link_text: View paper at Nature Communications
     tags: Computational Neuroscience, Synaptic Noise
