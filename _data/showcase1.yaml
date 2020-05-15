@@ -8,7 +8,7 @@ items:
     description: |-
       To add.
     features_styles: is-centered is-outlined is-primary
-    image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/noise.jpeg
+    image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/noise.jpeg
     image_ratio: is-4by3
     link: https://www.nature.com/articles/s41467-019-11633-8
     link_text: View paper at Nature Communications
@@ -19,8 +19,8 @@ items:
     description: |-
       To add.
     features_styles: is-centered is-outlined is-primary
-    image: /_data/connectome.jpeg
-    image_ratio: is-16by9
+    image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/connectome.jpeg
+    image_ratio: is-4by5
     link: http://dx.doi.org/10.1162/netn_a_00124
     link_text: View paper at Network Neuroscience
     tags: Computational Neuroscience, Neuronal Networks, Topology
