@@ -6,35 +6,35 @@ intro: |-
   You can find all my publications on [Google Scholar](https://scholar.google.com/citations?user=qGwEGKEAAAAJ&hl=en).
 
 items:
-  - title: "Untangling emergent cortical dynamics: neurons from networks, noise from chaos"
-    subtitle: PhD thesis (EPFL, 2019)
+  - title: "Untangling Emergent Cortical Dynamics: Neurons from Networks, Noise from Chaos"
+    subtitle: PhD Thesis (EPFL, 2019)
     description: |-
-      To add.
+      Description to follow.
     features_styles: is-centered is-outlined is-primary
     image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/phd-thesis.png
     image_ratio: is-3by1
     link: https://infoscience.epfl.ch/record/269161/files/EPFL_TH9616.pdf
-    link_text: Download thesis
-    tags: Computational Neuroscience, Synaptic Noise
+    link_text: Download thesis (PDF)
+    tags: Computational Neuroscience, Synaptic Noise, PhD Thesis, Networks, Simulation
  
   - title: Cortical reliability amid noise and chaos
     subtitle: Nature Communications
     description: |-
-      To add.
+      Description to follow.
     features_styles: is-centered is-outlined is-primary
     image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/noise.jpeg
-    image_ratio: is-4by3
+    image_ratio: is-3by1
     link: https://www.nature.com/articles/s41467-019-11633-8
     link_text: View paper at Nature Communications
-    tags: Computational Neuroscience, Synaptic Noise
+    tags: Computational Neuroscience, Synaptic Noise, Chaos
 
   - title: Impact of higher order network structure on emergent cortical activity
     subtitle: Network Neuroscience
     description: |-
-      To add.
+      Description to follow.
     features_styles: is-centered is-outlined is-primary
     image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/connectome.jpeg
-    image_ratio: is-4by5
+    image_ratio: is-3by1
     link: http://dx.doi.org/10.1162/netn_a_00124
     link_text: View paper at Network Neuroscience
     tags: Computational Neuroscience, Neuronal Networks, Topology
