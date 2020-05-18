@@ -13,8 +13,7 @@ items:
     link: https://www.nature.com/articles/s41467-019-11633-8
     link_text: View paper at Nature Communications
     tags: Computational Neuroscience, Synaptic Noise
-
-items:
+ 
   - title: Cortical reliability amid noise and chaos
     subtitle: Nature Communications
     description: |-
