@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Max Nolte
 subtitle: Neuroscience | Data Science | Scientific Computing
 published: true
