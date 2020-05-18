@@ -22,7 +22,7 @@ items:
     description: |-
       Description to follow.
     features_styles: is-centered is-outlined is-primary
-    image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/noise.jpeg
+    image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/noise-chaos.jpeg
     image_ratio: is-3by1
     link: https://www.nature.com/articles/s41467-019-11633-8
     link_text: View paper at Nature Communications
@@ -33,7 +33,7 @@ items:
     description: |-
       Description to follow.
     features_styles: is-centered is-outlined is-primary
-    image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/connectome.jpeg
+    image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/impact.jpeg
     image_ratio: is-3by1
     link: http://dx.doi.org/10.1162/netn_a_00124
     link_text: View paper at Network Neuroscience
