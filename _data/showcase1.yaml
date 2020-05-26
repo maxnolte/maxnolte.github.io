@@ -9,7 +9,7 @@ items:
   - title: "Untangling Emergent Cortical Dynamics: Neurons from Networks, Noise from Chaos"
     subtitle: PhD Thesis (EPFL, 2019)
     description: |-     
-      ""
+      
     features_styles: is-centered is-outlined is-primary
     image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/phd-thesis.png
     image_ratio: is-3by1
@@ -20,7 +20,7 @@ items:
   - title: Cortical Reliability amid Noise and Chaos
     subtitle: Nature Communications
     description: |-
-      ""
+      
     features_styles: is-centered is-outlined is-primary
     image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/noise-chaos.png
     image_ratio: is-3by1
@@ -31,7 +31,7 @@ items:
   - title: Impact of Higher Order Network Structure on Emergent Cortical Activity
     subtitle: Network Neuroscience
     description: |-
-      ""
+      
     features_styles: is-centered is-outlined is-primary
     image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/impact.png
     image_ratio: is-3by1
