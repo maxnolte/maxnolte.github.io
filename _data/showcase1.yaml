@@ -9,7 +9,7 @@ items:
   - title: "Untangling Emergent Cortical Dynamics: Neurons from Networks, Noise from Chaos"
     subtitle: PhD Thesis (EPFL, 2019)
     description: |-     
-      "The way in which cortical microcircuit components -- most importantly neurons -- and their connectivity -- the network -- shape and constrain emergent dynamics is a long-standing question in neuroscience. Experimentally observed dynamical properties can often be explained by circuit models with different simplifying assumptions for the underlying neuron models and their network structure, such as deterministic synapse models describing stochastic synapses, or a uniform network structure describing heterogeneous synaptic connectivity. Intrinsic neural variability, for example, can emerge from both stochastic synaptic properties (noise) and deterministic network dynamics (chaos). It is therefore often not clear if models with ad hoc simplifying assumptions for various biological details provide correct explanations for the emergence of cortical dynamics. In this thesis, we set out to advance our understanding of how detailed biological properties of cortical neurons and their network structure shape emergent dynamics by studying a model of a prototypical neocortical microcircuit that was reconstructed using all relevant available biological data. To make our predictions as biologically accurate as possible, we used a 'zero tweak' strategy wherein parameters in the model were not adjusted to replicate specific experimentally observed dynamical properties, but instead were constrained by biological data. This allowed us to characterize the effect of two biological properties that are often abstracted away in ad hoc simplifications: stochastic synaptic transmission and a heterogeneous network structure with complex higher-order connectivity. Studying the model, we made several important predictions: (1) Stochastic synaptic transmission, in an interplay with recurrent network dynamics, causes rapid chaotic divergence of spontaneous activity. (2) Synaptic noise overshadows other local cellular noise sources. (3) Amid the noise and chaos, neurons can reliably respond to external inputs with millisecond spike-time precision. (4) This reliable response goes beyond mere feedforward suppression of recurrent dynamics and is driven by the circuit at a near-critical excitation-inhibition balance. (5) An abundance of high-dimensional cliques of all-to-all connected neurons which shape correlations between neurons in a hierarchical manner. (6) This effect is strongly reduced when synaptic connectivity is replaced by a rejected null model with reduced higher-order network structure. We conclude that a detailed representation of cellular noise sources and high-dimensional network structure is imperative to accurately model emergent cortical network dynamics. Models that make ad hoc simplifying assumptions need to carefully justify the exclusion of such details."
+      ""
     features_styles: is-centered is-outlined is-primary
     image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/phd-thesis.png
     image_ratio: is-3by1
@@ -20,7 +20,7 @@ items:
   - title: Cortical Reliability amid Noise and Chaos
     subtitle: Nature Communications
     description: |-
-      Description to follow.
+      ""
     features_styles: is-centered is-outlined is-primary
     image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/noise-chaos.png
     image_ratio: is-3by1
@@ -31,7 +31,7 @@ items:
   - title: Impact of Higher Order Network Structure on Emergent Cortical Activity
     subtitle: Network Neuroscience
     description: |-
-      Description to follow.
+      ""
     features_styles: is-centered is-outlined is-primary
     image: https://raw.githubusercontent.com/maxnolte/maxnolte.github.io/master/_data/impact.png
     image_ratio: is-3by1
